@@ -12,3 +12,4 @@ D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\refint\BaitapPhan1.dll
 D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.pdb
 D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.genruntimeconfig.cache
 D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\ref\BaitapPhan1.dll
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.sourcelink.json
