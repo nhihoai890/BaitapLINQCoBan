@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocC#\\BaitapPhan1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\BaitapPhan1.csproj|d:\\hocc#\\baitapphan1\\baitapphan1\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\BaitapPhan1.csproj|solutionrelative:baitapphan1\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\BaitapPhan1.csproj|d:\\hocc#\\baitapphan1\\baitapphan1\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\BaitapPhan1.csproj|solutionrelative:baitapphan1\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\BaitapPhan1.csproj|d:\\hocc#\\baitapphan1\\baitapphan1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\BaitapPhan1.csproj|solutionrelative:baitapphan1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\BaitapPhan1.csproj|d:\\hocc#\\baitapphan1\\baitapphan1\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\BaitapPhan1.csproj|solutionrelative:baitapphan1\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\22115141122112_PhanMaiHoaiNhi.csproj|d:\\hocc#\\baitapphan1\\baitapphan1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\22115141122112_PhanMaiHoaiNhi.csproj|solutionrelative:baitapphan1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\22115141122112_PhanMaiHoaiNhi.csproj|d:\\hocc#\\baitapphan1\\baitapphan1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\22115141122112_PhanMaiHoaiNhi.csproj|solutionrelative:baitapphan1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\22115141122112_PhanMaiHoaiNhi.csproj|d:\\hocc#\\baitapphan1\\baitapphan1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\22115141122112_PhanMaiHoaiNhi.csproj|solutionrelative:baitapphan1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\22115141122112_PhanMaiHoaiNhi.csproj|d:\\hocc#\\baitapphan1\\baitapphan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA53C93A-17B1-42EB-82D2-B672F153D304}|BaitapPhan1\\22115141122112_PhanMaiHoaiNhi.csproj|solutionrelative:baitapphan1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai7.cs",
+              "RelativeDocumentMoniker": "BaitapPhan1\\Bai7.cs",
+              "ToolTip": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai7.cs",
+              "RelativeToolTip": "BaitapPhan1\\Bai7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:05:18.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai6.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai6.cs",
+              "RelativeDocumentMoniker": "BaitapPhan1\\Bai6.cs",
+              "ToolTip": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai6.cs",
+              "RelativeToolTip": "BaitapPhan1\\Bai6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:01:36.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai5.cs",
+              "RelativeDocumentMoniker": "BaitapPhan1\\Bai5.cs",
+              "ToolTip": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai5.cs",
+              "RelativeToolTip": "BaitapPhan1\\Bai5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:53:11.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai4.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai4.cs",
+              "RelativeDocumentMoniker": "BaitapPhan1\\Bai4.cs",
+              "ToolTip": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai4.cs",
+              "RelativeToolTip": "BaitapPhan1\\Bai4.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:50:05.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai3.cs",
+              "RelativeDocumentMoniker": "BaitapPhan1\\Bai3.cs",
+              "ToolTip": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai3.cs",
+              "RelativeToolTip": "BaitapPhan1\\Bai3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:43:12.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai2.cs",
+              "RelativeDocumentMoniker": "BaitapPhan1\\Bai2.cs",
+              "ToolTip": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai2.cs",
+              "RelativeToolTip": "BaitapPhan1\\Bai2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:39:44.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai1.cs",
+              "RelativeDocumentMoniker": "BaitapPhan1\\Bai1.cs",
+              "ToolTip": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Bai1.cs",
+              "RelativeToolTip": "BaitapPhan1\\Bai1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:30:27.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Program.cs",
+              "RelativeDocumentMoniker": "BaitapPhan1\\Program.cs",
+              "ToolTip": "D:\\HocC#\\BaitapPhan1\\BaitapPhan1\\Program.cs",
+              "RelativeToolTip": "BaitapPhan1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:27:02.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

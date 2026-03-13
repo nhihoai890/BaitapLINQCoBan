@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BaitapPhan1/1.0.0": {
+        "runtime": {
+          "BaitapPhan1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaitapPhan1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

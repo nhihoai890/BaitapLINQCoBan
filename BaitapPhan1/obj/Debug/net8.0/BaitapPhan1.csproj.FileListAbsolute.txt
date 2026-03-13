@@ -1,0 +1,14 @@
+D:\HocC#\BaitapPhan1\BaitapPhan1\bin\Debug\net8.0\BaitapPhan1.exe
+D:\HocC#\BaitapPhan1\BaitapPhan1\bin\Debug\net8.0\BaitapPhan1.deps.json
+D:\HocC#\BaitapPhan1\BaitapPhan1\bin\Debug\net8.0\BaitapPhan1.runtimeconfig.json
+D:\HocC#\BaitapPhan1\BaitapPhan1\bin\Debug\net8.0\BaitapPhan1.dll
+D:\HocC#\BaitapPhan1\BaitapPhan1\bin\Debug\net8.0\BaitapPhan1.pdb
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.AssemblyInfoInputs.cache
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.AssemblyInfo.cs
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.csproj.CoreCompileInputs.cache
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.dll
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\refint\BaitapPhan1.dll
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.pdb
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\BaitapPhan1.genruntimeconfig.cache
+D:\HocC#\BaitapPhan1\BaitapPhan1\obj\Debug\net8.0\ref\BaitapPhan1.dll
