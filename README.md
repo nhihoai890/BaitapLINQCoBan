@@ -1,2 +1,4 @@
 # BaitapLINQCoBan
 PHẦN 1 – LINQ CƠ BẢN (1–7)
+PHẦN 2 – LINQ VỚI OBJECT (8–14)
+PHẦN 3 – LINQ NÂNG CAO (15–20)
