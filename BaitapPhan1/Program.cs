@@ -19,7 +19,12 @@ class Program
         Bai12.ChayChuongTrinh();
         Bai13.ChayChuongTrinh();
         Bai14.ChayChuongTrinh();
-
+        Bai15.ChayChuongTrinh();
+        Bai16.ChayChuongTrinh();
+        Bai17.ChayChuongTrinh();
+        Bai18.ChayChuongTrinh();
+        Bai19.ChayChuongTrinh();
+        Bai20.ChayChuongTrinh();
         Console.ReadKey();
     }
 }
